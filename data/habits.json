@@ -1,0 +1,20 @@
+[
+  {
+    "habit": "Morning Jog",
+    "frequency": "daily",
+    "time": "06:00",
+    "notes": "Usually 5 km around the park."
+  },
+  {
+    "habit": "Reading",
+    "frequency": "evening",
+    "time": "21:00",
+    "notes": "Fiction and productivity books."
+  },
+  {
+    "habit": "Meditation",
+    "frequency": "daily",
+    "time": "07:00",
+    "notes": "10-minute guided session."
+  }
+]

@@ -1,0 +1,26 @@
+# FastAPI backend
+fastapi==0.111.1
+uvicorn[standard]==0.23.2
+
+# Optional: If you prefer Flask instead of FastAPI
+# flask==2.3.3
+
+# OpenAI API for embeddings / RAG
+openai==1.29.0
+
+# Vector database / similarity search
+faiss-cpu==1.7.4
+
+# Data handling
+numpy==1.26.1
+pandas==2.1.0
+
+# Optional: For fine-tuning / JSONL processing
+tqdm==4.65.0
+
+# For testing
+pytest==7.4.0
+
+# Other utilities
+python-dotenv==1.0.0   # if you want to load API keys from .env files
+requests==2.31.0
